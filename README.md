@@ -5,9 +5,47 @@ I have developed this open-source rover platform over the last few years as a me
 
 This features a custom-made PCB, lasercut and 3D-printed hardware, as well as low cost motors. It is not perfect by any means, but it has resulted in really high engagement in my students over the years. What follows are the many different facets of this platform, starting off with the materials.
 
+# Rover Materials
+
+## Custom-PCB
+
+## Microcontroller, Motors, and Motor Drivers
+
 # Rover Body
 
 IMAGE
+
+The most efficient way of making the body for the rover is to lasercut most of it. This is because lasercutting is much quicker than 3D printing and can be great for rapid prototyping. I usually have students lasercut cardboard designs first to ensure their dimensions are correct and then final designs are made on 3mm/6mm plywood.
+
+## OnShape
+
+Designs are made on OnShape at the following website:
+
+This is a free online CAD tool, available on all devices and can run even on the most limited of hardware machines.
+
+### OnShape Tutorial
+
+I ask my students to follow the OnShape Tutorial first, creating a skateboard to familiarize themselves with the tools of OnShape. Most useful are the sketch, extrude, mirror, and dimension tools.
+
+### OnShape Design
+
+### Videos for Support
+
+## Lasercutting and 3D Printing
+
+### 3D Printer
+
+### Lasercutter
+
+## Assembly
+
+# Programming
+
+## Thonny
+
+## Programming Basics
+
+# Tips
 
 I wanted a simple design for this NFC Holder. I designed it on OnShape and then proceeded to print it using my Original Prusa Mini+ and using PrusaSlicer.
 # Specifications & Material(s)
