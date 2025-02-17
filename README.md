@@ -52,9 +52,33 @@ I wanted a simple design for this NFC Holder. I designed it on OnShape and then 
 ## 3D Printer
  Original Prusa Mini+
 ## Material(s)
+
 INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
  – this can be purchased for $29.99 at the following link:
 https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+
+DC 3V~6V 100RPM Slow Speed Mini N20 Full Metal Gearbox Gear Reduction Motor D-shaft Reduction Ratio 1:100 DIY Robot Smart Car
+ – this can be purchased for $3.12 (x4) at the following link: https://www.aliexpress.us/item/3256807894195881.html?spm=a2g0o.productlist.main.59.cbb1KpJoKpJog9&algo_pvid=adde0bd1-050b-493e-b180-011f08648480&algo_exp_id=adde0bd1-050b-493e-b180-011f08648480-29&pdp_npi=4%40dis%21USD%213.25%213.05%21%21%213.25%213.05%21%402101c59517364361191481787e38df%2112000043589137407%21sea%21US%210%21ABX&curPageLogUid=eo7fBlbTx1TY&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+100pcs M2 X 4mm 304 Set Screws Stainless Steel 2mm x 4mm Set Screws Hex Allen Head Hex Hexagon Socket Set Screws with 0.9mm Allen Wrench,2mm Set Screw hex Allen Head Socket Set Screws – this can be purchased for $6.66 at the following link:
+https://www.amazon.com/ZDingTech-100pcs-Stainless-Hexagon-Screws/dp/B0DFWVDSMJ/ref=sr_1_5?crid=24ZV2LIZDUV6B&dib=eyJ2IjoiMSJ9.TAOr4ixQncxx9kmRkIpuY-GY58_ye7EesSSEWenwMSyHVOPYKup603n5WwpibAAiKLXTw9ff0OElZGf5JpwM6CPPXnEjAp-uPBzkMiZiwTEJ8BAZk93UfaePxPrWe4gRaomN1yg4hwVqHc9omdgXAF2jY8GCgQQ-qwJb2NYoMlRR8ssI-7DOsGc6qlYfH7qavMhusugia4SkP72fFDHgTB7RkpcZqi4XZHLzXJ8qoVE.uej9Ma3jRA2dfUQTJU1vBSuR4zO1Wxq5cLdxKJkJwlg&dib_tag=se&keywords=m2%2Bset%2Bscrew&qid=1739811816&sprefix=m2%2Bset%2Bscrew%2Caps%2C144&sr=8-5&th=1
+
+Heat-Set Threaded Inserts, M2 Heat Set Insert for 3D Printing Components and Plastic Parts - Brass Metric Knurled Nuts (100 Pieces) – this can be purchased for $8.99 at the following link:
+https://www.amazon.com/HANGLIFE-Heat-Set-Threaded-Printing-Components/dp/B0CS6XJSSL/ref=sr_1_6?crid=3FUNF5LSBE9MX&dib=eyJ2IjoiMSJ9.ztZ5dblN8Fgaz3F2kJ0hw35uQ1ide8BIv_FaFiZK4MXorsjB3wvvqCD7de7IrPdwRPqntuEYyd0a9bgSE17nOa-CqGctq2I1OO1VhIJ1ug-66yHtGzz7XG1yqYEC6y5Zby20sc2L1FqFyh2t-S4jHhrcBC9v2zor7T1oGMMW7iaexPk-siK2LM1gEUc2ZdzPN2JxWjsc83PJszQGPlT9sVNkm89VdKCcgUgTJluel2I.Fn5Wqgq1Jf2p8VIqDfD6meB6Zqn3Li5HSCBFhAUNufI&dib_tag=se&keywords=m2%2Bheat%2Binsert%2B4mm&qid=1739812028&sprefix=m2%2Bheat%2Binsert%2B4mm%2Caps%2C127&sr=8-6&th=1
+
+20 Sets Mini Micro JST-PH 2.0mm 2 Pin Male Connector with 10cm Silicone Wire Cables and Female Socket JST PH 2.0 Connector Kit – this can be purchased for $6.99 at the following link:
+https://www.amazon.com/JST-PH-Connector-Silicone-Cables-Female/dp/B0D7Q9HJLQ/ref=sr_1_1?crid=VATYILANMV77&dib=eyJ2IjoiMSJ9.genZNL9wfeD9oRPGn8vTn9GOXNVLvnX-Z5otHOFub4U586oqF_a4W123Tm4KjULCDc-G1JJ3VkeUp-ZltJLw_SCaygj3bNzk5jzNd02fZv7dIhXFwQiPUrxn6vQ7-DPBuX4KfOuXqSsKdLZRkUHPnFDofLzGZba9GaqkD-yG9WSyn8bXN4GucVjf17w8DIwCGKJHtrbmCiMiw-YQZlkZRig2SlQAYTcft2hcwe3699qcIcBOp9wUd-xYt-gSPg2-ffh-m2eT6tO0cMbyEpuqMI2mjF2BnqjMKCHGzdA3IBqFHb3kRSHo-DWjKM0XwxT27ibxw-MbxC9QZNvt4i-il-Edg6uQpp6IVfPV3Rfm1C4.XeqXq1ZQg3AeREjhAF86uzGBJ4AyfC9UgWoIzGtgsKM&dib_tag=se&keywords=JST-2P+adapter&qid=1739803122&s=electronics&sprefix=jst-2p+adapte%2Celectronics%2C97&sr=1-1
+
+Fytoo 2PCS 6.0V 2800mah AA Rechargeable Battery with JST-2P Plug with USB Charging Cable for The New Huina 540 Dump 520 RC Bulldozer and 510 Excavator 540 Engineering Truck Truck RC Toy RC Car – this can be purchased for $19.99 at the following link:
+https://www.amazon.com/dp/B0C5CDZ7HS?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
+ – this can be purchased for $29.99 at the following link:
+https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+
+6pcs JST to PH 2P for E-Flite 120 SR to Blade mCP-X (Ultra Micro) Lipo Battery Adapter Cables(C166-6) – this can be purchased for $6.99 at the following link:
+https://www.amazon.com/OliRC-Flite-Battery-Adapter-Cables/dp/B08SC3D3SQ/ref=sr_1_43?crid=2U11DJDVC770W&dib=eyJ2IjoiMSJ9.C-hb-r80ayYrzMWROHXPLm_OZhr0IZIFTbjilYxv2kzY28POEl5wDDCHAsZugJi-L3A05Q0CZtBuxPK1_J32c5X9z-B-dqWfW-7I_n0sPMmm-e1b_StpuaUGECby3kWuGBIYLLfYDBrQ0dYISy0jqweHeoNpdfrKCx5M-qnt_02G0rr7owAvzKj8S3rfaKZ_6p4XDcT0ItjQaa_nfU96FzLk3n4Z-sYplseOVIALf1E.JTyu3WvCV6II4F3JR23N_1HE-gT9WkQlnCmJEehE3ro&dib_tag=se&keywords=Micro%2BJST(female)%2Bto%2BPH%2B2.0-2P(male)&qid=1739810839&sprefix=micro%2Bjst%2Bfemale%2Bto%2Bph%2B2.0-2p%2Bmale%2B%2Caps%2C112&sr=8-43&xpid=6cly2fEqZ1b_m&th=1
+
 # Software
  PrusaSlicer
  ![Image_3](https://github.com/user-attachments/assets/74f0e6df-54ff-4fed-aae8-e25df3ee9b7c)
