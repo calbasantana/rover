@@ -11,6 +11,20 @@ The materials used for this project are broken down into the following component
 ## Custom-PCB
 This custom PCB 
 ## Microcontroller, Motors, and Motor Drivers
+The following materials need to be purchased for this rover (links included):
+
+* USB-C ESP32
+* Motor Driver (X2)
+* Batteries (X2)
+* Battery adapter cables
+* Motor cables
+* D-Shaft DC Motors (X4-X8)
+* Femlae Header Pins
+* Male JST Connectors
+* 3mm x 4mm insert
+* 3mm x 4mm heat insert
+
+Based on XYZ ...
 
 # Rover Body
 
