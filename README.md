@@ -21,8 +21,8 @@ The following materials need to be purchased for this rover (links included):
 * D-Shaft DC Motors (X4-X8)
 * Femlae Header Pins
 * Male JST Connectors
-* 3mm x 4mm insert
-* 3mm x 4mm heat insert
+* M2 x 4mm Set Screws
+* M2 x 3mm x 3mm Threaded Inserts
 
 Based on XYZ ...
 
