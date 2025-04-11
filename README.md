@@ -6,9 +6,10 @@ I have developed this open-source rover platform over the last few years as a me
 This features a custom-made PCB, lasercut and 3D-printed hardware, as well as low cost motors. It is not perfect by any means, but it has resulted in really high engagement in my students over the years. What follows are the many different facets of this platform, starting off with the materials.
 
 # Rover Materials
+The materials used for this project are broken down into the following components.
 
 ## Custom-PCB
-
+This custom PCB 
 ## Microcontroller, Motors, and Motor Drivers
 
 # Rover Body
