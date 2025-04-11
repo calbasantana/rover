@@ -42,7 +42,7 @@ This is a free online CAD tool, available on all devices and can run even on the
 
 I ask my students to follow the OnShape Tutorial first, creating a skateboard to familiarize themselves with the tools of OnShape. Most useful are the sketch, extrude, mirror, and dimension tools.
 
-### OnShape Design
+### OnShape CAD Model
 
 ### Videos for Support
 
