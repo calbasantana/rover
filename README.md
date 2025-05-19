@@ -1,28 +1,45 @@
-IMAGE
+[PICTURE]
 
 # Introduction
-I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them in real-life scenarios. This is a companion repository to the rover challenges repository.
 
-This features a custom-made PCB, lasercut and 3D-printed hardware, as well as low cost motors. It is not perfect by any means, but it has resulted in really high engagement in my students over the years. What follows are the many different facets of this platform, starting off with the materials.
+I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them in real-life scenarios. This is a companion repository to the rover challenges arena repository.
+
+This features a custom-made PCB and lasercut/3D-printed parts. It is not perfect by any means, but it has resulted in really high engagement in my students over the years. What follows are the many different facets of this platform, starting off with the materials.
 
 # Rover Materials
+
 The materials used for this project are broken down into the following components.
 
 ## Custom-PCB
-This custom PCB 
+
+[PICTURE]
+
+This custom PCB is designed for an ESP32 to connect to two small motor drivers. It has pins for up to eight motors. However, because each motor driver can only control two motors, this is achieved by making parallel connections to each of the exisiting connections. This means that only four motors can be individually controlled.
+
+This PCB was created using EasyEDA. To order a copy of this PCB, uploead the Gerber file from the PCB folder and upload it to the JLCPCB website, which is one of many websites that can manufacture PCBs for consumers. They are generally really cheap. As an example, a batch of 100 PCBs costs $50. The only real expensive part is the shipping, usually around $25.
+
+The PCB schematic is below for reference:
+
+[PICTURE]
+
+And the PCB layout is here:
+
+[PICTURE]
+
 ## Microcontroller, Motors, and Motor Drivers
+
 The following materials need to be purchased for this rover (links included):
 
-* USB-C ESP32
-* Motor Driver (X2)
-* Batteries (X2)
-* Battery adapter cables
-* Motor cables
-* D-Shaft DC Motors (X4-X8)
-* Femlae Header Pins
-* Male JST Connectors
-* M2 x 4mm Set Screws
-* M2 x 3mm x 3mm Threaded Inserts
+* [USB-C ESP32 (X1, $8.99 ea.)](https://www.amazon.com/AITRIP-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0DF2YJSHN/ref=sr_1_3?crid=1G6IDOYNKPKX9&dib=eyJ2IjoiMSJ9.J8fl2PuZsBFTQRqqz9O9mLtmR5c3g4T6QqdGo-D0eTjT6x-RNRspTE-T1cENww24dOzuOXNMWdfDVSyXLg11Bf9geRDMJQTGeN8fDzUZQdUuu6ql33jUCzh54aLePB23ZYlcQnI6kKamfVrkVmBWImiDyPM2_cfJRQ31eAQTGoVGCAZvd5FDOsKMtfXPDIBeboR9r5_mAR9PJ2iZAl1XFMpgxN3lRmXGAhl4d1pkhEw.R_NzTn628-SylaJJRwnYczlZxkceZnzVgDT5ZIbxqGE&dib_tag=se&keywords=esp32%2Busb%2Bc&qid=1747615119&sprefix=esp32%2Busb%2Bc%2Caps%2C127&sr=8-3&th=1)
+* [Motor Driver (X2, $6.95 ea.)](https://www.adafruit.com/product/2448)
+* [Batteries (X2, $19.99 total)](https://www.amazon.com/dp/B0C5CDZ7HS?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3)
+* [Battery adapter cables (X2, $1.17 ea.)](https://www.amazon.com/dp/B08SC3D3SQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1)
+* [DC Motors (X4-X8, $3.50 ea.)](https://www.adafruit.com/product/2941)
+* [Wheels (X4-X8, $2.50 ea.)](https://www.adafruit.com/product/2744)
+* [Male Header Pins (X16, ~$0.20 total)](https://www.amazon.com/MCIGICM-Header-2-45mm-Arduino-Connector/dp/B07PKKY8BX/ref=sr_1_3?crid=1UOTCLVLP8NBF&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YURue2SRQPZGjTOn-chwyhK-M_IjeCaW5rokSMnyMAVVnZTc5CzgG8dEONU-uutB7UxnSnLH0U2Croee-BUiI-JDEPxRCRiiMCBSRJgNAdIBv6GiGNRgSYq-3P6zK5nOuW5kb43uDa-oWIACeoFh99JM.nKbcZqvC_hNR6ES6f7s5o9FuPlfrFeEAsgNfd5lOjas&dib_tag=se&keywords=male+header+pin&qid=1747615696&sprefix=male+header+pin%2Caps%2C160&sr=8-3)
+* Female JST Connectors
+* M3 x 10mm Hex Screw
+* M3 Nut
 
 Based on XYZ ...
 
