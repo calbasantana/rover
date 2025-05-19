@@ -62,21 +62,52 @@ After students have become familiar with OnShape, it is then recommended that th
 
 Below you will see an example of what a rover could look like. This is a very basic design and students can - and should - deviate from it to suit their needs.
 
+[PICTURE]
+
 Most notable about this design are the following features:
 
-* **Vertical PCB**: The PCB is placed vertically such that accessing the USB-C port is easier.
-* **Four Motors**: I decided on four motors for simplicity. Having a few additional motors may have been helpful to increase friction for challenges like Challenge 6: Welcome to Seattle, but decided against it.
-* **Compactness**: Small
+* **Motor Wire Holes**: On the base itself, there are two large holes that are meant to be used for wire passthrough. This should make it easier and prevent the need for wire extenders.
+* **Vertical PCB**: The PCB is placed vertically such that accessing the USB-C port is easier. Additionally, this makes it so that the overall footprint of the base is smaller.
+* **Four Motors**: I decided on four motors for simplicity. Having a few additional motors may have been helpful to increase friction for challenges like Challenge 6: Welcome to Seattle, but I decided against it. Should students wish to attempt this challenge, it may be wise to increase the number of motors/wheels.
 
 ### Videos for Support
 
+Below you will find videos pertaining to each section of the base design and how they were created. It may be helpful to view them, but then deviate as needed.
+
+**Base**
+
+[VIDEO]
+
+**PCB Holder**
+
+[VIDEO]
+
+**Battery Holders**
+
+[VIDEO]
+
+**Motor Mounts**
+
+[VIDEO]
+
 ## Lasercutting and 3D Printing
 
-### 3D Printer
+Most of the rover will be - or at least should be - lasercut. This will make prototyping easier. Out of the previously demonstrated parts, the base, PCB holder, and battery holders components will be lasercut. Motor mounts, due to both their small size and irregular shape, are best 3D printed. Below you will find specifications of the lasercutter and 3D printer used.
 
 ### Lasercutter
 
+### 3D Printer
+
 ## Assembly
+
+Once all parts have been lasercut and 3D printed, it is time for assembly. I highly suggest starting off with hot gluing all parts that need to be hot glued and waiting for a bit for them to dry off. After doing this, it is recommended to assemble in the following order:
+
+* Place and screw the PCB. Make sure the ESP32 and motor drivers are on it.
+* Place the DC motors inside the motor mounts, being very careful with their cables, and then screw the motor mounts onto the flat lasercut base.
+* Screw the wheels onto the DC motors.
+* Connect the motors in the appropriate locations.
+* Connect the battery adapter cables.
+* Connect the batteries to test that all components work. Remove once you've confirmed all components seem to be working OK. Report any issues.
 
 # Programming
 
@@ -85,3 +116,5 @@ Most notable about this design are the following features:
 ## Programming Basics
 
 # Tips
+
+Since I have been doing this for a while, there are a lot of issues I've learned how to troubleshoot.
