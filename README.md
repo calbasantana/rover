@@ -18,7 +18,10 @@ This PCB was created using [EasyEDA](https://easyeda.com/). To order a copy of t
 
 The PCB schematic is on the left and the PCB layout is on the right in the images below.  for reference:
 
-[PICTURE] [PICTURE]
+<p align="center">
+  <img src="media/screenshots/pcb_schematic.png" alt="PCB Schematic" width="400"/>
+  <img src="media/screenshots/pcb_layout.svg" alt="PCB Layout" width="400"/>
+</p>
 
 ## Microcontroller, Motors, and Motor Drivers
 
