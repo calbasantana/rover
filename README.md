@@ -39,13 +39,14 @@ Based on XYZ ...
 
 # Rover Body
 
-IMAGE
+[PICTURE]
+
 
 The most efficient way of making the body for the rover is to lasercut most of it. This is because lasercutting is much quicker than 3D printing and can be great for rapid prototyping. I usually have students lasercut cardboard designs first to ensure their dimensions are correct and then final designs are made on 3mm/6mm plywood.
 
 ## OnShape
 
-Designs are made on OnShape at the following website:
+Designs are made on [OnShape](https://cad.onshape.com/).
 
 This is a free online CAD tool, available on all devices and can run even on the most limited of hardware machines.
 
