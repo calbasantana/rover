@@ -2,9 +2,7 @@
 
 # Introduction
 
-I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them in real-life scenarios. This is a companion repository to the rover challenges arena repository.
-
-This features a custom-made PCB and lasercut/3D-printed parts. It is not perfect by any means, but it has resulted in really high engagement in my students over the years. What follows are the many different facets of this platform, starting off with the materials.
+I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them to an engineering challenge. The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
 
 # Rover Materials
 
@@ -16,7 +14,7 @@ The materials used for this project are broken down into the following component
 
 This custom PCB is designed for an ESP32 to connect to two small motor drivers. It has pins for up to eight motors. However, because each motor driver can only control two motors, this is achieved by making parallel connections to each of the exisiting connections. This means that only four motors can be individually controlled.
 
-This PCB was created using EasyEDA. To order a copy of this PCB, uploead the Gerber file from the PCB folder and upload it to the JLCPCB website, which is one of many websites that can manufacture PCBs for consumers. They are generally really cheap. As an example, a batch of 100 PCBs costs $50. The only real expensive part is the shipping, usually around $25.
+This PCB was created using [EasyEDA](https://easyeda.com/). To order a copy of this PCB, uploead the Gerber file from the PCB folder and upload it to [JLCPCB](https://jlcpcb.com/?href=easyeda-home), which is one of many websites that can manufacture PCBs for consumers. They are generally really cheap. As an example, a batch of 100 PCBs costs $50. The only real expensive part is the shipping, usually around $25.
 
 The PCB schematic is on the left and the PCB layout is on the right in the images below.  for reference:
 
