@@ -18,13 +18,9 @@ This custom PCB is designed for an ESP32 to connect to two small motor drivers. 
 
 This PCB was created using EasyEDA. To order a copy of this PCB, uploead the Gerber file from the PCB folder and upload it to the JLCPCB website, which is one of many websites that can manufacture PCBs for consumers. They are generally really cheap. As an example, a batch of 100 PCBs costs $50. The only real expensive part is the shipping, usually around $25.
 
-The PCB schematic is below for reference:
+The PCB schematic is on the left and the PCB layout is on the right in the images below.  for reference:
 
-[PICTURE]
-
-And the PCB layout is here:
-
-[PICTURE]
+[PICTURE] [PICTURE]
 
 ## Microcontroller, Motors, and Motor Drivers
 
