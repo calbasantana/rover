@@ -4,6 +4,8 @@
 
 I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them to an engineering challenge. The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
 
+# Roles
+
 # Rover Materials
 
 The materials used for this project are broken down into the following components.
@@ -44,20 +46,27 @@ Based on XYZ ...
 
 [PICTURE]
 
-
-The most efficient way of making the body for the rover is to lasercut most of it. This is because lasercutting is much quicker than 3D printing and can be great for rapid prototyping. I usually have students lasercut cardboard designs first to ensure their dimensions are correct and then final designs are made on 3mm/6mm plywood.
+The rover body needs to be able to hold the most critical parts of the rover, specifically the PCB and batteries. It is also usually the largest single piece of the rover. For this reason, lasercutting is particularly useful. You can not only make large parts without warping, as would occur with 3D printing such a large piece, but you can also make them fast, allowing room for rapid prototyping and fixing of mistakes (because things seldom go right the first time around).
 
 ## OnShape
 
-Designs are made on [OnShape](https://cad.onshape.com/).
-
-This is a free online CAD tool, available on all devices and can run even on the most limited of hardware machines.
+To make the body and other parts of the rover, I use [OnShape](https://cad.onshape.com/) and recommend that my students do the same. This is a free online CAD tool, available on all devices and can run even on the most limited of hardware machines.
 
 ### OnShape Tutorial
 
-I ask my students to follow the OnShape Tutorial first, creating a skateboard to familiarize themselves with the tools of OnShape. Most useful are the sketch, extrude, mirror, and dimension tools.
+I ask my students to follow an [OnShape Tutorial](https://learn.onshape.com/courses/unit-2-designing-a-skateboard) first, creating a skateboard to familiarize themselves with the tools of OnShape. Most useful are the sketch, extrude, mirror, and dimension tools.
+
+After students have become familiar with OnShape, it is then recommended that they create their own OnShape document and share it out with their group members. While one person will be primarily taking the responsibility of the document, they should all be involved with determining measurements and making design decisions. There will also be days where the lead the designer may be out, so others need to step in their place to continue progress.
 
 ### OnShape CAD Model
+
+Below you will see an example of what a rover could look like. This is a very basic design and students can - and should - deviate from it to suit their needs.
+
+Most notable about this design are the following features:
+
+* Vertical PCB: This makes it so
+* Four Wheels: This
+* Compactness: Small
 
 ### Videos for Support
 
