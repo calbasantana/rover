@@ -64,9 +64,9 @@ Below you will see an example of what a rover could look like. This is a very ba
 
 Most notable about this design are the following features:
 
-* Vertical PCB: This makes it so
-* Four Wheels: This
-* Compactness: Small
+* **Vertical PCB**: The PCB is placed vertically such that accessing the USB-C port is easier.
+* **Four Motors**: I decided on four motors for simplicity. Having a few additional motors may have been helpful to increase friction for challenges like Challenge 6: Welcome to Seattle, but decided against it.
+* **Compactness**: Small
 
 ### Videos for Support
 
