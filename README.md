@@ -2,7 +2,9 @@
 
 # Introduction
 
-I have developed this open-source rover platform over the last few years as a means of expanding my students' understanding of physics concepts by applying them to an engineering challenge. The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
+The purpose of this repository is to provide a guide on how to create a rover - a four- to eight-wheeled vehicle - using an ESP32 microcontroller on a custom PCB. This repository ...
+
+This is an open-source platform that I have developed for students over the last few years as a means of expanding my students' understanding of physics concepts by applying them to an engineering challenge. The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
 
 # Roles
 
