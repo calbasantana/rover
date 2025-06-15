@@ -107,27 +107,19 @@ Most of the rover will be - or at least should be - lasercut. This will make pro
 * [Navy Blue ELEGOO 1kg, 1.75mm Filament ($18.69)](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Carboard/dp/B0CFV4WLY6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0zBpEpW4jNbq1P5QCaHqCDY1p09Dfbw3Amhrep2wDUAoP2OhINhw7hHcC1wH-1VgctB92Ci-VHMd2DsSIe3xQaMOLhpzDRa-ui6xJ0zy1eKPvdz4Tl1GfT9mzRmei9OSNcotDHvOwjmG1bahxUusv1efDrZm5Zcp2qnXroiV6WCIBQMEZ7esqvav3zGEm5NzIS_VPlqaA3rYNav5nIaTwUfFZmpOaOG9pfS6o4Kng8w.LMNtaL9GyxCNgsTN4-3rez2hmy-NqedElxaa92ErEtA&dib_tag=se&keywords=ELEGOO+Matte+PLA+Filament+Navy+Blue+1KG%2C+1.75mm+3D+Printer+Filament+Dimensional+Accuracy+%2B%2F-+0.02mm%2C+1kg+Carboard+Spool+%282.2lbs%29+for+Most+FDM+3D+Printers&qid=1750015709&sr=8-1)
 
 ### Lasercutter
-XTool D1 Pro
-
-**Software**
-
-XTool Creative Studio (XCS)
-
-**Settings (for cutting)**
-
+XTool D1 Pro \
+**Software** \
+XTool Creative Studio (XCS) \
+**Settings (for cutting)** \
 Power (%): 100 \
 Speed (mm/s): 5 \
 Pass: 1
 
 ### 3D Printer
-Original Prusa Mini+
-
-**Software**
-
-PrusaSlicer
-
-**Settings**
-
+Original Prusa Mini+ \
+**Software** \
+PrusaSlicer \
+**Settings** \
 Layer Height: .2mm \
 Infill: 50% \
 Supports: Everywhere \
