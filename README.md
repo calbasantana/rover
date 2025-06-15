@@ -1,14 +1,10 @@
-This repository is a work in progress and will be completed at a later date.
-
 [PICTURE]
 
 # Introduction
 
-The purpose of this repository is to provide a guide on how to create a rover - a four- to eight-wheeled vehicle - using an ESP32 microcontroller on a custom PCB. This repository ...
+The purpose of this repository is to provide access to an open-source platform that I have created and developed for students over the last few years as a means of expanding their understanding of physics concepts by applying physics concepts to engineering challenges. This engineering challenge entails the create of a rover - a four- to eight-wheeled vehicle - using an ESP32 microcontroller on a custom PCB.
 
-This is an open-source platform that I have developed for students over the last few years as a means of expanding my students' understanding of physics concepts by applying them to an engineering challenge. The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
-
-# Roles
+The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
 
 # Rover Materials
 
@@ -22,7 +18,7 @@ This custom PCB is designed for an ESP32 to connect to two small motor drivers. 
 
 This PCB was created using [EasyEDA](https://easyeda.com/). To order a copy of this PCB, uploead the Gerber file from the PCB folder and upload it to [JLCPCB](https://jlcpcb.com/?href=easyeda-home), which is one of many websites that can manufacture PCBs for consumers. They are generally really cheap. As an example, a batch of 50 PCBs costs $19. The only real expensive part is the shipping, usually around $17-50.
 
-The PCB schematic is on the left and the PCB layout is on the right in the images below.  for reference:
+The PCB schematic is on the top and the PCB layout is on the bottom in the images below.
 
 <p align="center">
   <img src="media/screenshots/pcb_schematic.png" alt="PCB Schematic" width="600"/>
