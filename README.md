@@ -130,9 +130,10 @@ Estimated Printing Time: ~ 2hours.
 Once all parts have been lasercut and 3D printed, it is time for assembly. I highly suggest starting off with hot gluing all parts that need to be hot glued and waiting for a bit for them to dry off. After doing this, it is recommended to assemble in the following order:
 
 * Place and screw the PCB. Make sure the ESP32 and motor drivers are on it.
-* Place the DC motors inside the motor mounts, being very careful with their cables, and then screw the motor mounts onto the flat lasercut base.
+* Screw the motor mounts to the board.
+* Place the DC motors inside the motor mounts and screw them in, being very careful with their cables.
 * Screw the wheels onto the DC motors.
-* Connect the motors in the appropriate locations.
+* Connect the motors in the appropriate locations, use cable jumpers if necessary.
 * Connect the battery adapter cables.
 * Connect the batteries to test that all components work. Remove once you've confirmed all components seem to be working OK. Report any issues.
 
