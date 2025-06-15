@@ -139,9 +139,19 @@ Once all parts have been lasercut and 3D printed, it is time for assembly. I hig
 
 # Programming
 
-## Thonny
+Thonny is used as the programming platform. Students can install this application on their own non-chromebook devices using the instructions below.
 
-## Programming Basics
+Go to the official [Thonny](https://thonny.org/) website and download the application. Then, depending on your operating system, continue as follows:
+
+**For Windows**: Install the 64-bit version. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Windows. Once downloaded, use the x64 .exe file to install the driver. \
+**For Mac**: Install using the first option with .pkg. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Mac OSX Driver. Then click on the .dmg file to install; **it will ask you to give access at some point in the settings, make sure to allow it access otherwise it won’t work**. \
+**For Linux**: It is recommended that you use the flatpak installation method if you already have flatpak in your system. If you do not have flatpak in your system, you may install it from the terminal via your default package manager; see this [website](https://flatpak.org/setup/) for specific directions if you are unsure. You may need to use “sudo chmod a+rw /dev/ttyUSB0” to open up the USB connection each time you connect the ESP32.
+
+Rovers are programmed in microPython. Below you will find a video tutorial of how to program the rover using the two provided .py files, which both must be uploaded to the ESP32.
+
+## Thonny Video Guide
+
+https://github.com/user-attachments/assets/3dcacc3b-9c0c-418b-a8b8-ecf9ae83f081
 
 # Tips
 
