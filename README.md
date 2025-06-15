@@ -12,10 +12,9 @@ The materials used for this project are broken down into the following component
 
 ## Custom-PCB
 
-NEED TO DO
 <p align="center">
-  <img src="media/screenshots/pcb_schematic.png" alt="PCB Schematic" width="500"/>
-  <img src="media/screenshots/pcb_layout.svg" alt="PCB Layout" width="200"/>
+  <img src="media/photos/pcb_front.jpg" alt="PCB Front" width="400"/>
+  <img src="media/photos/pcb_back.jpg" alt="PCB Back" width="400"/>
 </p>
 
 This custom PCB is designed for an ESP32 to connect to two small motor drivers. It has pins for up to eight motors. However, because each motor driver can only control two motors, this is achieved by making parallel connections to each of the exisiting connections. This means that only four motors can be individually controlled.
@@ -71,10 +70,8 @@ After students have become familiar with OnShape, it is then recommended that th
 
 Below you will see an example of what a rover could look like. This is a very basic design and students can - and should - deviate from it to suit their needs.
 
-NEED TO DO
 <p align="center">
-  <img src="media/screenshots/pcb_schematic.png" alt="PCB Schematic" width="500"/>
-  <img src="media/screenshots/pcb_layout.svg" alt="PCB Layout" width="200"/>
+  <img src="media/screenshots/rover_CAD.png" alt="Rover CAD Model" width="500"/>
 </p>
 
 Most notable about this design are the following features:
