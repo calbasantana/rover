@@ -102,6 +102,10 @@ https://github.com/user-attachments/assets/837b10f8-ceb4-4dcb-96e3-d2f189cb6fed
 
 Most of the rover will be - or at least should be - lasercut. This will make prototyping easier. Out of the previously demonstrated parts, the base, PCB holder, and battery holders components will be lasercut. Motor mounts, due to both their small size and irregular shape, are best 3D printed. Below you will find specifications of the lasercutter and 3D printer used.
 
+### Materials
+* [4-Pack 12" x 16" x 1/8" Walnut Plywood Sheets ($23.99)](https://www.amazon.com/ROBOTIME-16-Pack-Walnut-Plywood-Sheets/dp/B0D4QTZWJW/ref=sr_1_5?crid=5N28N9MA546C&dib=eyJ2IjoiMSJ9.k-VTc77EEiA7iWVr4SBXFp1fa-s328xiTw0COCg3Xb3MTlrC8jpyruFXeUAeiiCiWeqd_bGG2jZyUaQwydheF_9vHEUdJ36aQLL7ZHE5pD8w4FC9Gp49ls-iut2qMNPMHNQ82mpEpoqCAWkl8qQQYMF5L2UaZzDGzs6tHkzidyan0-cBc8F1ldLTGhLnjbjEgGYdoTjovSiQekXt7Qi3dmsm8Edp9dEApYT0CpZSLDZV_hyY13bmmnv_ypCVnFxkAoH8YGcZmUlBg8sBuiU4P-10BCj7j6n8NnpZB6GvpBw.S8gtR7mVVgHNEFjv2BN-OQO5X2sNbt_du2D0Gg0-LNU&dib_tag=se&keywords=robotime%2B8%2Bpack%2Bwalnut%2Bplywood%2Bsheets%2B12%2Bx%2B16&qid=1746033927&sprefix=robotime%2B8%2Bpack%2Bwalnut%2Bplywood%2Bsheets%2B12%2Bx%2B16%2Caps%2C70&sr=8-5&th=1)
+* [Navy Blue ELEGOO 1kg, 1.75mm Filament ($18.69)](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Carboard/dp/B0CFV4WLY6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0zBpEpW4jNbq1P5QCaHqCDY1p09Dfbw3Amhrep2wDUAoP2OhINhw7hHcC1wH-1VgctB92Ci-VHMd2DsSIe3xQaMOLhpzDRa-ui6xJ0zy1eKPvdz4Tl1GfT9mzRmei9OSNcotDHvOwjmG1bahxUusv1efDrZm5Zcp2qnXroiV6WCIBQMEZ7esqvav3zGEm5NzIS_VPlqaA3rYNav5nIaTwUfFZmpOaOG9pfS6o4Kng8w.LMNtaL9GyxCNgsTN4-3rez2hmy-NqedElxaa92ErEtA&dib_tag=se&keywords=ELEGOO+Matte+PLA+Filament+Navy+Blue+1KG%2C+1.75mm+3D+Printer+Filament+Dimensional+Accuracy+%2B%2F-+0.02mm%2C+1kg+Carboard+Spool+%282.2lbs%29+for+Most+FDM+3D+Printers&qid=1750015709&sr=8-1)
+
 ### Lasercutter
 XTool D1 Pro
 
