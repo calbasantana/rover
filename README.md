@@ -103,8 +103,27 @@ https://github.com/user-attachments/assets/837b10f8-ceb4-4dcb-96e3-d2f189cb6fed
 Most of the rover will be - or at least should be - lasercut. This will make prototyping easier. Out of the previously demonstrated parts, the base, PCB holder, and battery holders components will be lasercut. Motor mounts, due to both their small size and irregular shape, are best 3D printed. Below you will find specifications of the lasercutter and 3D printer used.
 
 ### Lasercutter
+XTool D1 Pro
+
+#### Software
+XTool Creative Studio (XCS)
+
+#### Settings (for cutting)
+Power (%): 100 \
+Speed (mm/s): 5 \
+Pass: 1
 
 ### 3D Printer
+Original Prusa Mini+
+
+#### Software
+PrusaSlicer
+
+#### Settings
+Layer Height: .2mm \
+Infill: 50% \
+Supports: Everywhere \
+Estimated Printing Time: ~ 2hours.
 
 ## Assembly
 
