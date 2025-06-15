@@ -77,19 +77,19 @@ Most notable about this design are the following features:
 
 ### Videos for Support
 
-Below you will find videos pertaining to each section of the base design and how they were created. It may be helpful to view them, but students should deviate from this design as needed.
+Below you will find videos pertaining to each section of the base design and how they were created. It may be helpful to view them, but students should deviate from this design as needed. Please note these videos are available under media/videos.
 
 **Base and PCB Holder**
 
-[VIDEO]
+https://github.com/user-attachments/assets/f6f469bb-e396-4308-9e46-521faad81ced
 
 **Battery Holders**
 
-[VIDEO]
+https://github.com/user-attachments/assets/219071bb-fc81-4022-aa20-69a2cab3a099
 
 **Motor Mounts**
 
-[VIDEO]
+https://github.com/user-attachments/assets/837b10f8-ceb4-4dcb-96e3-d2f189cb6fed
 
 ## Lasercutting and 3D Printing
 
