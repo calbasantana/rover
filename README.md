@@ -51,7 +51,7 @@ The above prices are an estimate and does not take into account that if you were
 
 [PICTURE]
 
-The rover body needs to be able to hold the most critical parts of the rover, specifically the PCB and batteries. It is also usually the largest single piece of the rover. For this reason, lasercutting is particularly useful. You can not only make large parts without warping, as would occur with 3D printing such a large piece, but you can also make them fast, allowing room for rapid prototyping and fixing of mistakes (because things seldom go right the first time around).
+The rover body needs to be able to hold the most critical parts of the rover, specifically the PCB and batteries. It is also usually the largest single piece of the rover. For this reason, lasercutting is particularly useful. You can not only make large parts without warping, as would occur with 3D printing such a large piece, but you can also make them fast, allowing room for rapid prototyping and fixing of mistakes (because things seldom go right the first time).
 
 ## OnShape
 
@@ -71,19 +71,15 @@ Below you will see an example of what a rover could look like. This is a very ba
 
 Most notable about this design are the following features:
 
-* **Motor Wire Holes**: On the base itself, there are two large holes that are meant to be used for wire passthrough. This should make it easier and prevent the need for wire extenders.
+* **Vertical Battery Placement**: The batteries are placed vertically so the rover remains compact.
 * **Vertical PCB**: The PCB is placed vertically such that accessing the USB-C port is easier. Additionally, this makes it so that the overall footprint of the base is smaller.
 * **Four Motors**: I decided on four motors for simplicity. Having a few additional motors may have been helpful to increase friction for challenges like Challenge 6: Welcome to Seattle, but I decided against it. Should students wish to attempt this challenge, it may be wise to increase the number of motors/wheels.
 
 ### Videos for Support
 
-Below you will find videos pertaining to each section of the base design and how they were created. It may be helpful to view them, but then deviate as needed.
+Below you will find videos pertaining to each section of the base design and how they were created. It may be helpful to view them, but students should deviate from this design as needed.
 
-**Base**
-
-[VIDEO]
-
-**PCB Holder**
+**Base and PCB Holder**
 
 [VIDEO]
 
