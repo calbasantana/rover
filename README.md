@@ -108,18 +108,18 @@ Most of the rover will be - or at least should be - lasercut. This will make pro
 
 ### Lasercutter
 XTool D1 Pro
-#### Software
+**Software**
 XTool Creative Studio (XCS)
-#### Settings (for cutting)
+**Settings (for cutting)**
 Power (%): 100 \
 Speed (mm/s): 5 \
 Pass: 1
 
 ### 3D Printer
 Original Prusa Mini+
-#### Software
+**Software**
 PrusaSlicer
-#### Settings
+**Settings**
 Layer Height: .2mm \
 Infill: 50% \
 Supports: Everywhere \
