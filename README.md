@@ -135,7 +135,7 @@ Once all parts have been lasercut and 3D printed, it is time for assembly. I hig
 * Screw the wheels onto the DC motors.
 * Connect the motors in the desired locations, using cable jumpers if necessary. **Black goes on GND and red on VCC**. It is recommended to have one motor in each of the numbered slots (like 1A, 2A, 3A, and 4A).
 * Connect the battery adapter cables.
-* Connect the batteries to test that all components work. **IMPORTANT**: If running the default code, it will have all motors moving forward, so if some wheels are spinning backwards, you can change the orientation of the motor connections such that the black cable is on VCC and red is on GND; this only works to reverse the drive of motors, do not try this with the batteries. Remove once you've confirmed all components seem to be working OK. Report any issues.
+* Connect the batteries to test that all components work. **IMPORTANT**: If running the default code, it will have all motors moving forward, so if some wheels are spinning backwards, you can change the orientation of the motor connections such that the black cable is on VCC and red is on GND; **this only works to reverse the drive of motors, do not try this with the batteries**. Remove once you've confirmed all components seem to be working OK. Report any issues.
 
 # Programming
 
@@ -147,11 +147,26 @@ Go to the official [Thonny](https://thonny.org/) website and download the applic
 **For Mac**: Install using the first option with .pkg. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Mac OSX Driver. Then click on the .dmg file to install; **it will ask you to give access at some point in the settings, make sure to allow it access otherwise it won’t work**. \
 **For Linux**: It is recommended that you use the flatpak installation method if you already have flatpak in your system. If you do not have flatpak in your system, you may install it from the terminal via your default package manager; see this [website](https://flatpak.org/setup/) for specific directions if you are unsure. You may need to use “sudo chmod a+rw /dev/ttyUSB0” to open up the USB connection each time you connect the ESP32.
 
-Rovers are programmed in microPython. Below you will find a video tutorial of how to program the rover using the two provided .py files, which both must be uploaded to the ESP32.
+Rovers are programmed in microPython. Below you will find some instructions on how to program the rover, which requires that both .py files in this repostory (main.py and rover.py) are uploaded to the ESP32.
 
-## Thonny Video Guide
+## Programming Your Rover
 
-https://github.com/user-attachments/assets/3dcacc3b-9c0c-418b-a8b8-ecf9ae83f081
+To program your rover, first open up the Thonny application. Then, follow the instructions below.
+
+1. Remove your ESP32 from your rover. Trying to connect to it while it is connected to the rover might damage the ESP32, so it is best to remove it and then connect to it.
+
+2. Press the STOP/Start button. At the bottom of the screen, you should see ">>>". This should indicate the ESP32 is connected.
+
+3. Go to File -> Open. Select from micropython device. Here, you should be able to open up the main.py file.
+
+4. You should also be able to open rover.py file to see available functions. Essentially, the most important three pieces of code are the following:
+
+  * **rover.move_motor(motor_num, direction, speed)**: You should input the motor number, the direction (forward or backward), and speed (100 - 1000). For example, rover.move_motor(1, forward, 300) moves motor 1 at a speed of 300 forward. You can have multiple motors move at the same time by having them on separate, but sequential lines like so:
+    * rover.move_motor(1, forward, 300)
+    * rover.move_motor(2, forward, 300)
+  These two lines of code move motors 1 and 2 forward at a speed of 300.
+  * **sleep(time)**: This piece of code decides how long the previous piece of code runs for before moving to the next. If placed right after the two pieces of code from the last bullet point, it will move those two motors forward at a speed of 300 for 10 seconds before moving to the next piece of code. Decimals are allowed.
+  * **gradual_stop_all(direction="forward", initial_speed=700)**: This piece of code gradually stops all motors. No edits are necessary. However, if you would like to match the speed with the speed from previous line of code, you may do so.
 
 # Tips
 
