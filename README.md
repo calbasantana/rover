@@ -139,7 +139,7 @@ Once all parts have been lasercut and 3D printed, it is time for assembly. I hig
 
 Here's a video of a rover after assembly and testing.
 
-https://github.com/user-attachments/assets/ea777636-65e7-493a-ba05-9a14b3553634
+https://github.com/user-attachments/assets/ae261a00-1280-4e65-9ae5-73c345c18c76
 
 # Programming
 
