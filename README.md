@@ -137,6 +137,10 @@ Once all parts have been lasercut and 3D printed, it is time for assembly. I hig
 * Connect the battery adapter cables.
 * Connect the batteries to test that all components work. **IMPORTANT**: If running the default code, it will have all motors moving forward, so if some wheels are spinning backwards, you can change the orientation of the motor connections such that the black cable is on VCC and red is on GND; **this only works to reverse the drive of motors, do not try this with the batteries**. Remove once you've confirmed all components seem to be working OK. Report any issues.
 
+Here's a video of a rover after assembly and testing.
+
+https://github.com/user-attachments/assets/ea777636-65e7-493a-ba05-9a14b3553634
+
 # Programming
 
 Thonny is used as the programming platform. Students can install this application on their own non-chromebook devices using the instructions below.
@@ -169,7 +173,7 @@ To program your rover, first open up the Thonny application. Then, follow the in
   * **gradual_stop_all(direction="forward", initial_speed=700)**: This piece of code gradually stops all motors. No edits are necessary. However, if you would like to match the speed with the speed from previous line of code, you may do so.
 
 
-# Tips
+# Frequently Asked Questions
 
 Here are some FAQs from students and my responses.
 
