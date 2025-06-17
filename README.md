@@ -56,8 +56,6 @@ The above prices are an estimate and does not take into account that if you were
 
 # Rover Body
 
-[PICTURE]
-
 The rover body needs to be able to hold the most critical parts of the rover, specifically the PCB and batteries. It is also usually the largest single piece of the rover. For this reason, lasercutting is particularly useful. You can not only make large parts without warping, as would occur with 3D printing such a large piece, but you can also make them fast, allowing room for rapid prototyping and fixing of mistakes (because things seldom go right the first time).
 
 ## OnShape
@@ -129,15 +127,15 @@ Estimated Printing Time: ~ 2hours.
 
 ## Assembly
 
-Once all parts have been lasercut and 3D printed, it is time for assembly. I highly suggest starting off with hot gluing all parts that need to be hot glued and waiting for a bit for them to dry off. After doing this, it is recommended to assemble in the following order:
+Once all parts have been lasercut and 3D printed, it is time for assembly. I highly suggest starting off with hot gluing all parts that need to be hot glued and waiting for a bit for them to dry. After doing this, it is recommended to assemble in the following order:
 
 * Place and screw the PCB. Make sure the ESP32 and motor drivers are on it.
 * Screw the motor mounts to the board.
-* Place the DC motors inside the motor mounts and screw them in, being very careful with their cables.
+* Place the DC motors inside the motor mounts and screw them in, being very careful with their cables. I recommend placing the motors such that the cables coming out of them face towards the center of the rover (this way they won't get caught on stuff).
 * Screw the wheels onto the DC motors.
-* Connect the motors in the appropriate locations, use cable jumpers if necessary.
+* Connect the motors in the desired locations, using cable jumpers if necessary. **Black goes on GND and red on VCC**. It is recommended to have one motor in each of the numbered slots (like 1A, 2A, 3A, and 4A).
 * Connect the battery adapter cables.
-* Connect the batteries to test that all components work. Remove once you've confirmed all components seem to be working OK. Report any issues.
+* Connect the batteries to test that all components work. **IMPORTANT**: If running the default code, it will have all motors moving forward, so if some wheels are spinning backwards, you can change the orientation of the motor connections such that the black cable is on VCC and red is on GND; this only works to reverse the drive of motors, do not try this with the batteries. Remove once you've confirmed all components seem to be working OK. Report any issues.
 
 # Programming
 
