@@ -1,4 +1,6 @@
-[PICTURE]
+<p align="center">
+  <img src="media/photos/rover.jpg" alt="PCB Front" width="500"/>
+</p>
 
 # Introduction
 
