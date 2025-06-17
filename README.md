@@ -8,6 +8,13 @@ The purpose of this repository is to provide access to an open-source platform t
 
 The engineering challenge has changed over the years, but most recently it has resulted in the development of the companion repository to this repository - the rover challenges arena. Students try to complete up to 10 different challenges with the use of a rover. The present repository covers the construction and coding of the rover.
 
+Below you will find resources associated with this course and repository.
+
+**Associated Resources**:
+* [Introductory Physics Google Drive folder](https://drive.google.com/drive/folders/14O6FQSpFUbI4DR4CiFaPI4PMuGjOlXuQ?usp=drive_link)
+* [Rover Challenges Arena Repository](https://github.com/calbasantana/rover-challenges-arena)
+
+
 # Rover Materials
 
 The materials used for this project are broken down into the following components.
