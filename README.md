@@ -168,6 +168,18 @@ To program your rover, first open up the Thonny application. Then, follow the in
   * **sleep(time)**: This piece of code decides how long the previous piece of code runs for before moving to the next. If placed right after the two pieces of code from the last bullet point, it will move those two motors forward at a speed of 300 for 10 seconds before moving to the next piece of code. Decimals are allowed.
   * **gradual_stop_all(direction="forward", initial_speed=700)**: This piece of code gradually stops all motors. No edits are necessary. However, if you would like to match the speed with the speed from previous line of code, you may do so.
 
+
 # Tips
 
-Since I have been doing this for a while, there are a lot of issues I've learned how to troubleshoot.
+Here are some FAQs from students and my responses.
+
+**ESP32** 
+
+1. **It’s getting warm. What should I do?** A: This ESP32 is no longer usable because it has a shorted circuit somewhere or a component has been damaged. Contact your teacher for a replacement.
+2. **There is a blue light that lights up and it won’t move.** A: Unfortunately, this ESP32 is non-functional and you should contact your teacher for a replacement.
+
+**Motors**
+
+1. **The motors won’t move.** A: Check first to make sure that all the motor cables are plugged in. Sometimes they might get loose. If needed, add tape. Additionally, you may want to visually inspect the motors to see if there are any exposed wires on the backside. If the wire is damaged, a replacement motor is necessary, so contact your teacher. If the issue persists, contact your teacher; you may need new motors or the program may be missing from the ESP32.
+2. **The motors are moving in the wrong direction. What should I do?** A: While most motors should have their black wires plugged in at GND and their red wires plugged in at VCC, you can change the direction of the motor by switching them. This is only possible with motors, not batteries.
+3. **Motor 2 spins slowly compared to the other motors. What should I do?** A: The primary reason for this is that the speed is too high from the programming end. You should change the program to limit maximum speed to 600. Anything above this will result in motor 2 being too slow and cause your rover to drift.
