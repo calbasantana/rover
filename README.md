@@ -12,7 +12,7 @@ The engineering challenge has changed over the years, but most recently it has r
 
 The materials used for this project are broken down into the following components.
 
-## Custom-PCB
+## Custom PCB
 
 <p align="center">
   <img src="media/photos/pcb_front.jpg" alt="PCB Front" width="400"/>
